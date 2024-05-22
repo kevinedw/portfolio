@@ -19,6 +19,6 @@ Create a dashboard that displays core business KPIs on a weekly, monthly, and ye
 
 Plot the correlations for each marketing channel compared to Sales
 
-<img src="https://github.com/kevinedw/marketing-linear-regressions/blob/main/Facebook_feed_Impr.png" width="500" />
-<img src="https://github.com/kevinedw/marketing-linear-regressions/blob/main/correlations-altered.jpg" width="150" />
+<img src="https://github.com/kevinedw/portfolio/blob/main/Facebook_feed_Impr.png" width="500" />
+<img src="https://github.com/kevinedw/portfolio/blob/main/correlations-altered.jpg" width="150" />
 
