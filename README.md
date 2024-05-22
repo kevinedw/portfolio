@@ -12,7 +12,7 @@ The objective was to view the effects of each marketing channel on sales, and on
 ## Business KPI dashboard
 Create a dashboard that displays core business KPIs on a weekly, monthly, and yearly basis. 
 
-<img src="https://github.com/kevinedw/portfolio/blob/main/Org-Dashboard.PNG" width="500" />
+<img src="https://github.com/kevinedw/portfolio/blob/main/Org-Dashboard.png" width="500" />
 
 [Full Project](https://github.com/kevinedw/Executive-Dashboard)
 
