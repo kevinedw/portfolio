@@ -1,3 +1,5 @@
 title: Kevin Edwards
 theme: jekyll-theme-minimal
+baseurl: "portfolio" 
+url: "github.com/kevinedw"
 <img src="https://github.com/kevinedw/portfolio/blob/main/predictEffect.jpg" width="500" />
