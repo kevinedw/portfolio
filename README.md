@@ -10,6 +10,7 @@ The objective was to view the effects of each marketing channel on sales, and on
 <img src="https://github.com/wylee3/MMM/blob/main/predictEffect.jpg" width="500" />
 
 ## Business KPI dashboard
+https://github.com/wylee3/Executive-Dashboard
 
 ## Marketing Channel Correlations
 
