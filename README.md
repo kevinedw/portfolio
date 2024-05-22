@@ -7,7 +7,6 @@ The objective was to view the effects of each marketing channel on sales, and on
 [Full Project](https://github.com/kevinedw/MMM)
 
 <img src="https://github.com/kevinedw/portfolio/blob/main/predictEffect.jpg" width="500" />
-![image 1]({{github.com/kevinedw/portfolio/blob/main/}}/predictEffect.jpg "Image 1")
 
 ## Business KPI dashboard
 Create a dashboard that displays core business KPIs on a weekly, monthly, and yearly basis. 
