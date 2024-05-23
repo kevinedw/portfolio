@@ -10,7 +10,8 @@ Marketing Mixed Model
 The objective was to view the effects of each marketing channel on sales, and on each other. For instance, is radio affecting all the other channels, and is it affecting sales?
 [Full Project](https://github.com/kevinedw/MMM)
 
-<img src="https://github.com/kevinedw/portfolio/blob/main/IMAGE/predictEffect.jpg" width="500" />
+<img src="./IMAGE/predictEffect.jpg" width="500" />
+![alt]("./IMAGE/predictEffect.jpg")
 
 Business KPI dashboard
 Create a dashboard that displays core business KPIs on a weekly, monthly, and yearly basis. 
