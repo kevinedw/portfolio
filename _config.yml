@@ -7,4 +7,4 @@ author:
 description: "Portfolio of Analytic Projects."
 
 # Build settings
-remote_theme: jekyll/chirpy
+remote_theme: jekyll/minima
