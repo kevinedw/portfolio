@@ -1,3 +1,11 @@
-title: Kevin Edwards
-theme: jekyll-theme-minimal
+# Site settings
 
+title: Kevin Edwards
+
+author:
+  name: Kevin E
+  email: kevin@daus.com
+description: "Portfolio of Analytic Projects."
+
+# Build settings
+remote_theme: jekyll/minima
