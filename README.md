@@ -3,7 +3,7 @@ Examples of analytics work
 
 ## Marketing Mixed Model 
 
-The objective was to view the effects of each marketing channel on sales, and on each other. For instance, is radio affecting all the other channels, and is it affecting sales?
+The objective was to view the effects of each marketing channel on sales, and any tidal or overall affect. For instance, does radio affect all the other channels, and is it affecting sales?
 [Full Project](https://github.com/kevinedw/MMM)
 
 <img src="https://github.com/kevinedw/portfolio/blob/main/IMAGE/predictEffect.jpg" width="500" />
